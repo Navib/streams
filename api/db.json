@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "ivans streams",
+      "description": "streamer",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "this is a stream",
+      "id": 2
+    },
+    {
+      "title": "new stream ",
+      "description": "one more stream coming",
+      "id": 3
+    }
+  ]
+}
